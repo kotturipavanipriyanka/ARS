@@ -3,5 +3,10 @@
     "user_id": "de01c296-f517-4269-927d-af3e898ba3a0",
     "product_id": "p2",
     "rating": 5
+  },
+  {
+    "user_id": "f0c63879-649c-43c8-9b62-c799a92f59d2",
+    "product_id": "p1",
+    "rating": 4
   }
 ]
